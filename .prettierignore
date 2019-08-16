@@ -1,0 +1,5 @@
+dist
+logs
+**/*{.,-}min.js
+package.json
+package-lock.json
